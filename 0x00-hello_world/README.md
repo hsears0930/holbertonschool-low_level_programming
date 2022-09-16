@@ -1,1 +1,1 @@
-This folder is for project 0 containing C language tasks. test. correction
+This folder is for project 0 containing C language tasks. test. 
