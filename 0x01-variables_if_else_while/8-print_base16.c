@@ -14,11 +14,11 @@ int main(void)
 
 	for (x = 30; x <= 39; x++)
 	{
-		putchar ("%x"x);
+		putchar (x);
 	}
 	for (N = 61; N <= 66; N++)
 	{
-		putchar ("%x"N);
+		putchar (N);
 	}
 	putchar ('\n');
 
