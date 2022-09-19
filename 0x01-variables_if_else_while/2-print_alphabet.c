@@ -1,16 +1,21 @@
 #include <stdio.h>
 /**
- * putchar - writes characters to the stdout
- * return: 0
+ * main - entry point
+ *
+ * Description: putchar to print lowercase alphabet
+ *
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	char(x);
-	x = 'a';
-	while
-		(x <= 'z');
 
-	putchar(x);
-		(x++);
-return (0);
+	for (x = 'a'; a <= 'z'; x++)
+	{
+		putchar (x);
+	}
+	putchar ('\n');
+
+	return (0);
 }
