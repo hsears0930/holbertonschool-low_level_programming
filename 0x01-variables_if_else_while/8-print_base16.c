@@ -12,11 +12,11 @@ int main(void)
 	char(x);
 	char(N);
 
-	for (x = 30; x <= 39; x++)
+	for (x = '0'; x <= '9'; x++)
 	{
 		putchar (x);
 	}
-	for (N = 61; N <= 66; N++)
+	for (N = 'a'; N <= 'f'; N++)
 	{
 		putchar (N);
 	}
