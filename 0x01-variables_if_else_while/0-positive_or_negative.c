@@ -2,10 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * printf - displays the assigned text
- * scanf - scans input according to designated format
- * %d: for decimal integer
- * return: 0
+ * main - entry point
+ *
+ * Description: printing if statements for random numbers
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
