@@ -11,7 +11,7 @@ int main(void)
 		(x = 'a .. z');
 
 	putchar(x);
-	putchar('\n\);
+	putchar('\n');
 		(x++);
 return (0);
 }
