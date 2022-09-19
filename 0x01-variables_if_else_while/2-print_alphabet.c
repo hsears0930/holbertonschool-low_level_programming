@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * putchar - writes single characters to the stdout
- *return: 0
+ * putchar - writes characters to the stdout
+ * return: 0
  */
 int main(void)
 {
