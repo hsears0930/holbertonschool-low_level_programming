@@ -11,7 +11,6 @@ int main(void)
 		(x <= 'z');
 
 	putchar(x);
-	putchar('\n');
 		(x++);
 return (0);
 }
