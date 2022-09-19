@@ -6,9 +6,9 @@
 int main(void)
 {
 	int(x);
-
+	x = 'a';
 	while
-		((x) = 'a' .. 'z');
+		(x <= 'z');
 
 	putchar(x);
 	putchar('\n');
