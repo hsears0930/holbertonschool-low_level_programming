@@ -5,10 +5,13 @@
  */
 int main(void)
 {
-	int x;
+	int(x);
 
-	for (x = 'a'; x <= 'z'; x++)
-		putchar(x);
-		putchar('\n');
-	return (0);
+	while
+		(x = a .. z);
+
+	putchar(x);
+	putchar('\n\)
+		(x++)
+return (0);
 }
