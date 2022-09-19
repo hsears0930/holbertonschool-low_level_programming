@@ -1,7 +1,12 @@
 #include <stdio.h>
 /**
+ * main - entry point
+ *
  * sizeof - unary op that evals the size in memory of var or type in bytes
+ *
  * printf - displays formatted output to standard
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
