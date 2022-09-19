@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-	int(x);
+	char(x);
 	x = 'a';
 	while
 		(x <= 'z');
