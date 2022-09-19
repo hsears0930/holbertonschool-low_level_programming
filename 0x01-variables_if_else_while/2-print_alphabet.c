@@ -8,7 +8,7 @@ int main(void)
 	int(x);
 
 	while
-		(x = 'a .. z');
+		((x) = [a .. z]);
 
 	putchar(x);
 	putchar('\n');
