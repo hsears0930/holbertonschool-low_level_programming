@@ -1,10 +1,13 @@
 #include <stdio.h>
+#include "main.h"
 /**
- * printf - this function prints a statement
- * return - 0
+ * main - entry point
+ *
+ * Description: printing one at a time w putchar
+ *
+ * Return: Always 0 (Success)
  */
-int main(void)
+void main(void)
 {
-	printf("_putchar\n");
-	return (0);
-}
+	int _putchar( char x);
+
