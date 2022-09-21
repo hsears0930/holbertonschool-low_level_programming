@@ -9,5 +9,6 @@
  */
 void main(void)
 {
-	int _putchar( char x);
-
+	printf("_putchar");
+	return (0);
+}
