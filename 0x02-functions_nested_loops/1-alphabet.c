@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * main - check the code
+ * print_alphabet - main function
  *
- *Description: tells what prototype print_alphabet does
+ * Description: tells what prototype print_alphabet does
  *
- * Return: Always 0
+ * Return: Always 0 on success
  */
 
 void print_alphabet(void)
