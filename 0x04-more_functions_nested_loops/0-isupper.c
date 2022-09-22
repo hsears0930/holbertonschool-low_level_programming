@@ -1,9 +1,9 @@
 #include "main.h"
 /**
  * _isupper - main function
+ * @c: uppercase
  *
  * Description: defines my prototype
- * @c is my int
  *
  * Return: Always 0 on success
  */
