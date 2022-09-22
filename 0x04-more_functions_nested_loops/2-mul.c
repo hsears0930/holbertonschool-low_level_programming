@@ -1,15 +1,12 @@
 #include "main.h"
 /**
- * mul(int a, int b) - main function
- *
- * Description: multiplying two integers
- *
- * Return: Always 0 on success
- */
-
-int mul(int a, int b);
+*mul - main function
+*@a: intiger
+*@b: intiger
+*Description: multiplying two integers
+*Return: answer on success
+*/
+int mul(int a, int b)
 {
-	int a;
-	int b;
-
-
+	return (a * b);
+}
